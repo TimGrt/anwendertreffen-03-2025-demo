@@ -1,0 +1,8 @@
+# Ansible Cache folder
+.ansible/
+
+# ansible-policy Git project, downloaded to build the ansible-policy binary
+ansible-policy/
+
+# Python VE with ansible-policy installed for demo
+demo-ve/
